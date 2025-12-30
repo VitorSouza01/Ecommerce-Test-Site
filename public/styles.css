@@ -1,0 +1,97 @@
+
+/* Styles Layout Publico*/
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #4CAF50;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.produtos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.produtos-card {
+    width: 250px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+}
+
+.produtos-card img {
+    width: 100%;
+    height: 140px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.produtos-card h2 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.produtos-card p {
+    font-size: 14px;
+    color: #555;
+}
+
+.preco {
+    display: block;
+    font-size: 20px;
+    margin: 10px 0;
+    font-weight: bold;
+    color: #009900;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    width:  100%;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45A049;
+}
+
+.btn {
+    display: inline-block;
+    background: #4CAF50;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.btn:hover {
+    background: #45A049;
+}
+
+.tabela {
+    width: 100%;
+    background: white;
+    border-collapse: collapse;
+}
+
+.tabela th, .tabela td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
