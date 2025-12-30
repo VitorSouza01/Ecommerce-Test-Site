@@ -48,3 +48,11 @@ O projeto está sendo desenvolvido de forma incremental, servindo como um **ambi
 
 ---
 
+## 🖼️ Imagens
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/486cca4e-0f3e-4a37-8884-d255eeef6a9c" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/040793dd-5b23-43c9-9965-292a24ee4fe1" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d06ee7ae-3faf-4aa0-912e-0d7001d82cfd" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d777079b-97af-4745-bec1-1ae6584e9be2" />
